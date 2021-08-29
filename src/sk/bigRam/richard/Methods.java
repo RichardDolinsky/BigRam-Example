@@ -91,7 +91,6 @@ public class Methods {
 					String lastValue = listValues2.get(i).replace("]", "");
 					String lastNumber = numberOfArray.get(i).replace("]", "");
 					System.out.println(lastValue + "," + lastNumber);
-//					System.out.println(listValues2 + "  po  uprave:" + i);
 					return "\nSuccessfully done";
 				}
 
